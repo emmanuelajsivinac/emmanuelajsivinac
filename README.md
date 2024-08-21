@@ -10,7 +10,7 @@ QA and Implementer at **Byte Guatemala**
 📱 QA Manager <br>
 🛜 Certified Network Support Technician <br>
 
-## Techologies
+## Technologies
 🔹 Python
 🔹 Javascript
 🔹 VueJs

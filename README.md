@@ -28,6 +28,13 @@ QA and Implementer at **Byte Guatemala**
 🏗️ DevOps <br>
 🌐 Networking <br><br>
 
+<div style="display: flex; align-items: center;">
+  <a href="https://www.instagram.com/emmanuelajsivinac" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.facebook.com/emmajsivinac" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://open.spotify.com/user/31zcjnaemnp7zoszyc7i5yxslrhe" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+</div>
+
+
 <!--
 <p align="center">
   <img src="https://github.com/user-attachments/assets/10c3c236-84c3-4950-b97c-3b3e83a9d730" width=45% />

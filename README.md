@@ -11,7 +11,6 @@ QA and Implementer at **Byte Guatemala**
 🛜 Certified Network Support Technician <br>
 
 ## Technologies
-
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -24,8 +23,22 @@ QA and Implementer at **Byte Guatemala**
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=239120)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net&logoColor=5C2D91)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=7377AD)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes&logoColor=326CE5)&nbsp;
+![Minikube](https://img.shields.io/badge/-Minikube-05122A?style=flat&logo=minikube&logoColor=0066CC)&nbsp;
+![kubectl](https://img.shields.io/badge/-kubectl-05122A?style=flat&logo=kubernetes&logoColor=326CE5)&nbsp;
+![OpenShift](https://img.shields.io/badge/-OpenShift-05122A?style=flat&logo=openshift&logoColor=EE0000)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js&logoColor=4FC08D)&nbsp;
+
+## Designer and Edition Tools
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-05122A?style=flat&logo=adobe-premiere-pro&logoColor=9999FF)&nbsp;
+![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-05122A?style=flat&logo=adobe-after-effects&logoColor=9999FF)&nbsp;
+
 
 ## Areas of interest
 📱 Mobile Development <br>

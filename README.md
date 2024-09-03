@@ -33,7 +33,7 @@ QA and Implementer at **Byte Guatemala**
 ![OpenShift](https://img.shields.io/badge/-OpenShift-05122A?style=flat&logo=openshift&logoColor=EE0000)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js&logoColor=4FC08D)&nbsp;
 
-## Designer and Edition Tools
+## Design and Editing Tools
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-05122A?style=flat&logo=adobe-premiere-pro&logoColor=9999FF)&nbsp;

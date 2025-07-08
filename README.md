@@ -1,7 +1,7 @@
 # Hi there! I'm Emmanuel Alexander Ajsivinac Yoc
 Guatemalan <br>
 Systems Engineering student <br>
-QA and Implementer at **Byte Guatemala**
+Software Implementer at **Byte Guatemala**
 
 ## How am I?
 🐧 Linux User <br>

@@ -5,10 +5,9 @@ Software Implementer at **Byte Guatemala**
 
 ## How am I?
 🐧 Linux User <br>
-🐋 Kubernetes and Docker administrator <br>
+🐋 Kubernetes and Docker administrator<br>
 🧑🏽‍💻 Fullstack Developer <br>
 📱 Software Implementer Senior <br>
-🛜 Certified Network Support Technician <br>
 
 ## Certifications and badges
 <a href="https://www.credly.com/badges/c73eaacc-eac6-4fae-9dd2-e69a4d8ce82b/public_url">

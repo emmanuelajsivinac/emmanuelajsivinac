@@ -1,4 +1,4 @@
-# Hi there!<br>I'm Emmanuel Ajsivinac
+# Hi there!
 Guatemalan <br>
 Systems Engineering and MIBC Master's Degree in Computer Science with an emphasis in Electronic Banking student<br>
 Software Implementer at **Byte Guatemala**

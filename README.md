@@ -10,7 +10,7 @@ Software Implementer at **Byte Guatemala**
 📱 Software Implementer Senior <br>
 🛜 Certified Network Support Technician <br>
 
-## Certifications
+## Certifications and badges
 <a href="https://www.credly.com/badges/c73eaacc-eac6-4fae-9dd2-e69a4d8ce82b/public_url">
   <img src="mongodb-overview-core-concepts-and-architecture.png" width="100" alt="MongoDB Overview: Core Concepts and Architecture">
 </a>

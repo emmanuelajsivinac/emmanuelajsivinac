@@ -7,8 +7,13 @@ Software Implementer at **Byte Guatemala**
 🐧 Linux User <br>
 🐋 Kubernetes and Docker administrator <br>
 🧑🏽‍💻 Fullstack Developer <br>
-📱 QA Manager <br>
+📱 Software Implementer Senior <br>
 🛜 Certified Network Support Technician <br>
+
+## Certifications
+<a href="https://www.credly.com/badges/c73eaacc-eac6-4fae-9dd2-e69a4d8ce82b/public_url">
+  <img src="mongodb-overview-core-concepts-and-architecture.png" width="100" alt="MongoDB Overview: Core Concepts and Architecture">
+</a>
 
 ## Technologies
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;

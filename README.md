@@ -1,6 +1,6 @@
 # Hi there! I'm Emmanuel Alexander Ajsivinac Yoc
 Guatemalan <br>
-Systems Engineering student <br>
+Systems Engineering and MIBC Master's Degree in Computer Science with an emphasis in Electronic Banking student<br>
 Software Implementer at **Byte Guatemala**
 
 ## How am I?
